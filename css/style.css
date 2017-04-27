@@ -24,6 +24,7 @@ body{
 .mymenu{
   text-align: center;
   float: right;
+  display: none;
 }
 
 .mymenu li{
@@ -42,6 +43,7 @@ body{
 
 .header h1{
   text-transform: uppercase;
+  font-size: 50px;
   text-align: center;
   margin-top: 120px;
   color: #ffffff;
@@ -61,4 +63,10 @@ body{
 
 .scrolldown{
   width: 170px;
+  margin-top: 150px;
+}
+
+.hamburger{
+  width: 30px;
+  float: right;
 }
