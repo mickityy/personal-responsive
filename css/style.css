@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Dosis:300,400,700');
+
+body{
+	font-family:'Dosis', sans-serif;
+}
+
+.header{
+	background-image:url(../img/bg3.jpg);
+  background-size: cover;
+  color: #ffffff;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.logo{
+  width: 150px;
+}
+
+.close{
+  width: 70px;
+  height: 70px;
+  color: #ffffff;
+}
+.mymenu{
+  text-align: center;
+  float: right;
+}
+
+.mymenu li{
+  display: inline-block;
+  margin-left: 70px;
+  list-style-type: none;
+  font-size: 18px;
+  text-transform: uppercase;
+  font-weight: 400;
+}
