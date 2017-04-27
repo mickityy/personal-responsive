@@ -199,3 +199,20 @@ body{
 }
 
 /*my code image grid end*/
+
+.footer{
+  background: #383838;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align: center;
+}
+
+.footerlogo{
+  width: 90px;
+}
+
+.footer p{
+  font-size: 12px;
+  color: #ffffff;
+  margin-top: 40px;
+}
