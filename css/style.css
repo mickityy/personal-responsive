@@ -119,3 +119,33 @@ body{
 .about a:hover{
   color: #0e92a9;
 }
+
+.ach{
+  background-image: url(../img/bg6.jpg);
+  background-size: cover;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-attachment: fixed;
+  color: #ffffff;/*font color for text*/
+  text-align: center;/*aligns ach h1 and achbloc span to the center*/
+}
+
+.ach h1{
+  font-size: 36px;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+
+.achbloc span{
+  font-size: 100px;
+  font-weight: 300;
+}
+
+.achbloc h3{
+  font-size: 27px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #0b708b;
+  margin-bottom: 80px;
+
+}
